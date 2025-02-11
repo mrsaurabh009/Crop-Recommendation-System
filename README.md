@@ -36,6 +36,7 @@ To get started with this project, follow these steps:
 
 ##Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
+** If you want to make User Interface (UI) for this project, then create a pull request.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
