@@ -1,4 +1,4 @@
-rop Recommendation System
+Crop Recommendation System
 Overview
 The Crop Recommendation System is designed to help farmers decide the best crops to plant based on various factors such as soil type, weather conditions, and past crop data. This project aims to improve agricultural productivity and efficiency.
 Features
